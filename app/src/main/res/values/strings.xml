@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HomeWork13_1</string>
+    <string name="name_film">Name films:</string>
+    <string name="film_year">Film year</string>
+    <string name="film_author">Film author</string>
+    <string name="film_description">Film description</string>
+    <string name="clear_base">Clear base</string>
+    <string name="save_to_base">Save to base</string>
+    <string name="find">Find</string>
+    <string name="enter_year">Enter year</string>
+</resources>
